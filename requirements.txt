@@ -1,0 +1,6 @@
+streamlit as st
+os
+PyPDF2 import PdfReader
+shutil
+sqlite3
+transformers import pipeline
