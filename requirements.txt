@@ -1,6 +1,6 @@
-streamlit as st
+streamlit 
 os
-PyPDF2 import PdfReader
+PyPDF2 
 shutil
 sqlite3
-transformers import pipeline
+transformers 
